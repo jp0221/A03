@@ -7,11 +7,11 @@ Directions:
 5. Start up Webstorm, and in the system prefrences, select version control and GIT and follow over to GIT execuetable.
 6. In Webstorm, go over to Passwords in system settings and enter the location for GITHUB password.
 7. In order to use the repository from earlier in Webstorm, select VCS(Version Control Systems), click on mport Version Control, and select GIT.
-Enter your repository name from earlier, and the local path.
-Click on File, HTML5 or Stylesheet, and add a GIT option to the local files.
-Use the repository and create a brief description of the change you made, and using the Push option in VCS/GIT to add the local files to GITHUB repository.
-Go on GITHUB and check the repository using Master Branch publish the site.
-When ready, use the url in a browser to if the site works.
+8. Enter your repository name from earlier, and the local path.
+9. Click on File, HTML5 or Stylesheet, and add a GIT option to the local files.
+10. Use the repository and create a brief description of the change you made, and using the Push option in VCS/GIT to add the local files to GITHUB repository.
+11. Go on GITHUB and check the repository using Master Branch publish the site.
+12. When ready, use the url in a browser to if the site works.
 
 
 Glossary;
